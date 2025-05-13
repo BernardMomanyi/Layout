@@ -1,0 +1,7 @@
+body {
+    background: red;
+}
+.container {
+   display: grid;
+  grid-template-columns: 14rem auto 14rem;
+}
